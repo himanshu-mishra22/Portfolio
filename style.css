@@ -295,10 +295,10 @@ section {
   flex-direction: column;
 }
 
-/* .about-containers,
+.about-containers,
 .about-details-container {
-  /* display: flex; 
-} */
+  display: flex; 
+} 
 
 .about-pic {
   border-radius: 2rem;
@@ -312,7 +312,7 @@ section {
 
 .details-container {
   padding: 1.5rem;
-  /* flex: 1; */
+  flex: 1;
   background: white;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
@@ -404,7 +404,7 @@ article .icon {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 70vh;
+  height: 94vh;
 }
 
 .contact-info-upper-container {
@@ -451,6 +451,10 @@ footer p {
 
 .contact-class{
   min-height: 90vh;
+}
+
+.ab{
+  margin-right: 6%;
 }
 
 
